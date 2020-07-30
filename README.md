@@ -7,3 +7,7 @@
 this is mod 1
 
 this is mod 2
+
+###COPYRIGHT NOTICE
+
+hello
